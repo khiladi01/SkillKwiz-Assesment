@@ -10,8 +10,7 @@ git clone https://github.com/khiladi01/SkillKwiz-Assesment.git
 
 ## Live
 Deploy on Vercel
-
-
+https://skill-kwiz-assesment.vercel.app/
 
 ## Table of Contents
 - [Features](#features)
